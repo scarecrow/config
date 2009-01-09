@@ -1,0 +1,9 @@
+## エスケープキーの設定
+escape ^Tt
+
+## ビジュアルベルを無効
+vbell off
+
+## スタートアップ時メッセージ無効
+startup_message off
+
